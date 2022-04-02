@@ -26,14 +26,14 @@ PORT=5000
 ```
 Instalar dependencias:
 ```
-cd mern/server
+cd server
 npm install
 npm start
 ```
 
 Instalar dependencias del Web server
 ```
-cd mern/client
+cd client
 npm install
 npm start
 ```
