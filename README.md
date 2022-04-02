@@ -19,7 +19,7 @@
 
 ## Instalación
 
-Crear Atlas URI con estos parametros `mern/server/config.env` Atlas URI:
+Crear Atlas URI con estos parametros `server/config.env` Atlas URI:
 ```
 ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 PORT=5000
