@@ -46,8 +46,21 @@ npm start
 - EXPRESS
 
 ---
+```
+```
+---
 
-#### recursos:
+#### Deploy:
+
+## [todolist MERN (FRONTEND) HEROKU](https://todofrond.herokuapp.com/)
+___
+## [todolist MERN (BACKEND) HEROKU](https://todonodjs.herokuapp.com/)
+
+___
+```
+``` 
+---
+#### Recursos:
       mongodb university.
 
 
@@ -55,7 +68,11 @@ npm start
 
 ---
 ____
+```
+```
 ## [Darío Higuera Moreno](https://github.com/dariohimo)
+---
 &copy; Abril 03 de 2022
 
+---
 
