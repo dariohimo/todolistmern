@@ -56,7 +56,7 @@ npm start
 ___
 ## [todolist MERN (BACKEND) HEROKU](https://todonodjs.herokuapp.com/)
 
-## [GIT MERN (BACKEND) GITHUB](https://github.com/dariohimo/todolistmern)
+## [GIT MERN (FRONTED/BACKEND) GITHUB](https://github.com/dariohimo/todolistmern)
 
 ___
 ```
